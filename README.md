@@ -16,8 +16,8 @@ To make this even more useful, each color pallete table also includes columns of
 ### Brand Fonts
 - *Logotype:* Chronicle and Chronicle Italic
 - *Web-Safe Version:* Times New Roman
-- *Headlines:*Knockout-HTF29-JuniorLiteweight
-- *Web-Safe Version:*Arial Narrow
+- *Headlines:* Knockout-HTF29-JuniorLiteweight
+- *Web-Safe Version:* Arial Narrow
 
 ### Primary Color Pallete
 *Blue (background of sheild):*
@@ -318,6 +318,6 @@ Trebuchet MS (we think)
 - Hex#949300
 
 ###Official Resources
-[Branding Toolkit](http://www.umcom.org/tools/toolkit)
-[Fonts](http://www.umcom.org/tools/fonts)
-[Colors](http://www.umcom.org/tools/colors)
+- [Branding Toolkit](http://www.umcom.org/tools/toolkit)
+- [Fonts](http://www.umcom.org/tools/fonts)
+- [Colors](http://www.umcom.org/tools/colors)
